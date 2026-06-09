@@ -379,7 +379,7 @@ if __name__ == '__main__':
 
 ```python
 """
-Marc Grau Casado
+Alicia Varón López
 
 Módulo para normalizar expresiones horarias escritas en castellano.
 
