@@ -272,7 +272,7 @@ vale insertar una imagen o una captura de pantalla, debe hacerse en formato *mar
 
 ```python
 """
-Marc Grau Casado
+Alicia Varón López
 
 Módulo para el tratamiento de notas de alumnos.
 Incluye la clase Alumno y la función leeAlumnos(), que lee un fichero
