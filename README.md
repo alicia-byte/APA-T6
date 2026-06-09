@@ -379,8 +379,7 @@ if __name__ == '__main__':
 
 ```python
 """
-Marc Grau Casado
-
+Alicia Varón López
 Módulo para normalizar expresiones horarias escritas en castellano.
 
 Incluye la función normalizaHoras(), que lee un fichero de texto, detecta
